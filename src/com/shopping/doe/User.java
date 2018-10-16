@@ -1,7 +1,7 @@
 package com.shopping.doe;
 
 /**
- * @author patel
+ * @author Bhautik Bhanani
  *
  */
 public class User {
